@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech",
+  "description": "A simple, fast text-to-speech tool with voice selection, language filtering, speed controls, and one-click paste and speak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
