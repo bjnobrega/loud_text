@@ -1,6 +1,6 @@
 {
-  "name": "Text to Speech",
-  "description": "A simple, fast text-to-speech tool with voice selection, language filtering, speed controls, and one-click paste and speak.",
+  "name": "LoudText",
+  "description": "A lightweight browser-based text-to-speech reading companion with voice selection, language filtering, speed and pitch controls, reading history, and spoken-text highlighting.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
